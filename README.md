@@ -2,7 +2,7 @@
 
 Both stars for each
 - 2024 Day 1 - 11,
-- 2025 Day 1 - 7, 9.
+- 2025 Day 1 - 7, 9, 11.
 
 One star for each
 - 2025 Day 8, 10
